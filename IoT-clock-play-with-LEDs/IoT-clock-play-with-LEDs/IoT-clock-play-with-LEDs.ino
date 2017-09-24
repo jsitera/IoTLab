@@ -1,3 +1,6 @@
+// simple tutorial teaching arrays and the for cycle
+// go step by step uncomenting just one line in the loop() a time
+
 // install FastLED (sketch -> include library -> Library manager)
 #include "FastLED.h"
 
