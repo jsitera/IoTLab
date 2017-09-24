@@ -13,6 +13,11 @@ First steps
 3. Compile and upload the basic clock code (.ino file), test it.
 4. Use the example code as a template for your modification or create a new project. Good start are also FastLED library examples and docs (http://fastled.io/ https://github.com/FastLED/FastLED).
 
+Learning arrays, for and while loop, etc. with IoT clock
+--------------------------------------------------------
+The IoT clock (a ring of LEDs) is a good playground for teaching Arduino programming.
+See the IoT-clock-play-with-LEDs (https://github.com/jsitera/IoTLab/tree/master/IoT-clock-play-with-LEDs) directory, there is another README file.
+
 More info
 ---------
 - see IoTLab team disk
